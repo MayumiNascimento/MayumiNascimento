@@ -1,12 +1,15 @@
-## 💜 Olá, sou a <strong>Mayumi!</strong>
+## 💜 Olá, sou a <strong>Mayumi</strong>
 
-> Atualmente estudante do curso superior Sistemas para Internet na Fatec Baixada Santista e do curso técnico Desenvolvimento de Sistemas da Etec de Praia Grande
+- Estudante do curso superior Sistemas para Internet na Fatec Baixada Santista e
+- Estudante do curso técnico Desenvolvimento de Sistemas na Etec de Praia Grande
 > 
-> Possuo experiência como desenvolvedora com foco em Front-End como estagiária na BDS DataSolution e como Desenvolvedora Freelancer na empresa Three Logistics
+> Possuo experiência como estagiária de desenvolvimento com foco em Front-End na BDS DataSolution
+> 
+> e desenvolvedora Freelancer na empresa Three Logistics
 
 <img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
 
-## 🚀 Minhas Skills
+## 🚀 Tecnologias e bibliotecas que estudo
 
 
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
@@ -17,9 +20,10 @@
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" alt="Angular"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL"/></code>
+<br>
 
 
-**Ferramentas que mais utilizo**
+## **Ferramentas que mais utilizo**
 
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
