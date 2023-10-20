@@ -1,15 +1,14 @@
 ## 💜 Olá, sou a <strong>Mayumi</strong>
 
-- Estudante do curso superior Sistemas para Internet na Fatec Baixada Santista e
-- Estudante do curso técnico Desenvolvimento de Sistemas na Etec de Praia Grande
+- Estudante do curso superior Sistemas para Internet na Fatec Baixada Santista Rubens Lara 5/6 e
+- Estudante do curso técnico Desenvolvimento de Sistemas na Etec de Praia Grande 1/3
 > 
-> Possuo experiência como estagiária de desenvolvimento com foco em Front-End na BDS DataSolution
+> Possuo experiência em desenvolvimento web com foco em Front-End como estagiária e freelancer
 > 
-> e desenvolvedora Freelancer na empresa Three Logistics
 
 <img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
 
-## 🚀 Tecnologias e bibliotecas que estudo
+## Tecnologias e bibliotecas que estudo
 
 
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
