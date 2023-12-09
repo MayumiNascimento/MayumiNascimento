@@ -1,14 +1,14 @@
-## 💜 Olá, sou a <strong>Mayumi</strong>
+## 💜 Hello, i'm <strong>Mayumi</strong>
 
-- Estudante do curso superior Sistemas para Internet na Fatec Baixada Santista Rubens Lara 5/6 e
-- Estudante do curso técnico Desenvolvimento de Sistemas na Etec de Praia Grande 1/3
+- Student of Internet Systems High-Ed Course at Fatec Baixada Santista Rubens Lara 5/6 e
+- Student of Systems development at Etec de Praia Grande 2/3
 > 
-> Possuo experiência em desenvolvimento web com foco em Front-End como estagiária e freelancer
-> 
+> I have experience with web development Front-End as a trainee and freelancer
+>
 
 <img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
 
-## Tecnologias e bibliotecas que estudo
+## Technologies e libraries I study: 
 
 
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
@@ -22,7 +22,7 @@
 <br>
 
 
-## **Ferramentas que mais utilizo**
+## **Tools I use most..**
 
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
@@ -31,7 +31,7 @@
 
 <br>
 <p align="left">
-  💌 Entre em contato comigo ⤵️
+  💌 Contact me ⤵️
 </p>
 
 <p align="left">
