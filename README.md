@@ -1,10 +1,10 @@
-## 💜 Hello, i'm <strong>Mayumi</strong>
+## Hello, <strong>Mayumi</strong> here 💜
 
-- Student of Internet Systems High-Ed Course at Fatec Baixada Santista Rubens Lara 5/6 e
+- Student of Internet Systems High-Ed Course at Fatec Baixada Santista Rubens Lara 6/6 and
 - Student of Systems development at Etec de Praia Grande 2/3
 > 
-> I have experience with web development Front-End as a trainee and freelancer
->
+> I have experience with Front-End web development
+> 
 
 <img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
 
