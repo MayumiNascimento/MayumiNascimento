@@ -1,6 +1,6 @@
 ## Hello, <strong>Mayumi</strong> here 💜
 
-- Student of Internet Systems High-Ed Course at Fatec Baixada Santista Rubens Lara
+- Graduated from Internet Systems High-Ed Course at Fatec Baixada Santista Rubens Lara
 > 
 > I have experience with web development and Figma/Adobe XD
 > 
